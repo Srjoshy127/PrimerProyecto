@@ -2,6 +2,9 @@ body{
     background-color: aliceblue;
     width: 300px;
     margin: auto;
+    display: flex;
+    justify-content: end;
+    border: 1px black solid;
 
 
 }
@@ -9,4 +12,5 @@ p{
     color: black ;
     font-size: large;
     text-align: justify;
+
 }
