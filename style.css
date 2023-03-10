@@ -1,0 +1,12 @@
+body{
+    background-color: aliceblue;
+    width: 300px;
+    margin: auto;
+
+
+}
+p{
+    color: black ;
+    font-size: large;
+    text-align: justify;
+}
