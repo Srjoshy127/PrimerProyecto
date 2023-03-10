@@ -1,10 +1,8 @@
 body{
     background-color: aliceblue;
-    width: 300px;
+    width: auto;
     margin: auto;
-    display: flex;
-    justify-content: end;
-    border: 1px black solid;
+    
 
 
 }
@@ -12,5 +10,11 @@ p{
     color: black ;
     font-size: large;
     text-align: justify;
+    margin: auto;
+    width: 300px;
+    text-align: justify;
+    border: 1px solid black;
+    padding: 10 px;
+
 
 }
